@@ -1,4 +1,4 @@
-# yuvakhel
+# YuvaKhel
 
 A new Flutter project.
 
